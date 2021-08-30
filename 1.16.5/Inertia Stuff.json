@@ -1,0 +1,12 @@
+{
+  "Auto Reconnect": false,
+  "Auto Reconnect Time": 100,
+  "Command Prefix": ".",
+  "Main Menu": {
+    "Index": 1,
+    "Picture Index": 0,
+    "Should Do Picture Cycle": true
+  },
+  "Client Rotation Type": 2,
+  "Has Shown Chat Bot Toxic Warning": false
+}

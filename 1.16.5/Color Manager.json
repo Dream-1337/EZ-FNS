@@ -1,0 +1,389 @@
+{
+  "Groups": {},
+  "Elements": {
+    "GuiClick Gui": {
+      "Rainbow": false,
+      "Red": 189,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPCrystalAura": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPTracersAnimals": {
+      "Rainbow": false,
+      "Red": 0,
+      "Green": 230,
+      "Blue": 255
+    },
+    "ESPTracersMobs": {
+      "Rainbow": false,
+      "Red": 40,
+      "Green": 124,
+      "Blue": 31
+    },
+    "ESPTracersPlayers": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPTracersFriends": {
+      "Rainbow": true,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPTracersCrystals": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 196
+    },
+    "HudWatermark": {
+      "Rainbow": false,
+      "Red": 189,
+      "Green": 0,
+      "Blue": 0
+    },
+    "HudTab Gui": {
+      "Rainbow": false,
+      "Red": 189,
+      "Green": 0,
+      "Blue": 0
+    },
+    "HudOverworld Coords": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255
+    },
+    "HudNether Coords": {
+      "Rainbow": false,
+      "Red": 205,
+      "Green": 7,
+      "Blue": 7
+    },
+    "HudMemory": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255
+    },
+    "HudFPS": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255
+    },
+    "HudBPS": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255
+    },
+    "HudEntities": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255
+    },
+    "HudPing": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255
+    },
+    "HudItem Durability": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255
+    },
+    "HudLava Warning": {
+      "Rainbow": false,
+      "Red": 247,
+      "Green": 124,
+      "Blue": 30
+    },
+    "HudBiome": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255
+    },
+    "HudTPS20-15": {
+      "Rainbow": false,
+      "Red": 85,
+      "Green": 255,
+      "Blue": 85
+    },
+    "HudTPS15-10": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 85
+    },
+    "HudTPS10-5": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 85,
+      "Blue": 85
+    },
+    "HudTPS5-0": {
+      "Rainbow": false,
+      "Red": 170,
+      "Green": 0,
+      "Blue": 0
+    },
+    "HudModuleCombat": {
+      "Rainbow": false,
+      "Red": 189,
+      "Green": 0,
+      "Blue": 0
+    },
+    "HudModulePlayer": {
+      "Rainbow": false,
+      "Red": 26,
+      "Green": 124,
+      "Blue": 166
+    },
+    "HudModuleMovement": {
+      "Rainbow": false,
+      "Red": 5,
+      "Green": 178,
+      "Blue": 28
+    },
+    "HudModuleRender": {
+      "Rainbow": false,
+      "Red": 226,
+      "Green": 121,
+      "Blue": 15
+    },
+    "HudModuleExploits": {
+      "Rainbow": false,
+      "Red": 131,
+      "Green": 129,
+      "Blue": 129
+    },
+    "HudModuleWorld": {
+      "Rainbow": false,
+      "Red": 102,
+      "Green": 0,
+      "Blue": 205
+    },
+    "HudRadarRadar": {
+      "Rainbow": false,
+      "Red": 189,
+      "Green": 0,
+      "Blue": 0
+    },
+    "HudRadarPlayer": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "HudRadarFriend": {
+      "Rainbow": true,
+      "Red": 0,
+      "Green": 255,
+      "Blue": 0
+    },
+    "HudRadarAnimal": {
+      "Rainbow": false,
+      "Red": 0,
+      "Green": 230,
+      "Blue": 255
+    },
+    "HudRadarMob": {
+      "Rainbow": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0
+    },
+    "HudRadarEnd Crystal": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 196
+    },
+    "HudRadarChest": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 178,
+      "Blue": 0
+    },
+    "HudRadarEnder Chest": {
+      "Rainbow": false,
+      "Red": 145,
+      "Green": 0,
+      "Blue": 255
+    },
+    "HudRadarShulker Box": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPTrajectories": {
+      "Rainbow": true,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPClick Teleport": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPSurround": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPESPPlayer": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPESPFriend": {
+      "Rainbow": true,
+      "Red": 0,
+      "Green": 255,
+      "Blue": 0
+    },
+    "ESPESPAnimal": {
+      "Rainbow": false,
+      "Red": 0,
+      "Green": 255,
+      "Blue": 0
+    },
+    "ESPESPMob": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 0
+    },
+    "ESPESPEnd Crystal": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 196
+    },
+    "ESPESPItem": {
+      "Rainbow": true,
+      "Red": 0,
+      "Green": 255,
+      "Blue": 255
+    },
+    "ESPESPChest": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 200,
+      "Blue": 0
+    },
+    "ESPESPTrapped Chest": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPESPEnder Chest": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 255
+    },
+    "ESPESPFurnace": {
+      "Rainbow": false,
+      "Red": 128,
+      "Green": 128,
+      "Blue": 128
+    },
+    "ESPESPDispenser": {
+      "Rainbow": false,
+      "Red": 128,
+      "Green": 128,
+      "Blue": 128
+    },
+    "ESPESPDropper": {
+      "Rainbow": false,
+      "Red": 128,
+      "Green": 128,
+      "Blue": 128
+    },
+    "ESPESPHopper": {
+      "Rainbow": false,
+      "Red": 128,
+      "Green": 128,
+      "Blue": 128
+    },
+    "ESPESPShulker Box": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 175,
+      "Blue": 175
+    },
+    "ESPESPBarrel": {
+      "Rainbow": false,
+      "Red": 139,
+      "Green": 69,
+      "Blue": 19
+    },
+    "ESPESPEmpty Item Frame": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPESPFilled Item Frame": {
+      "Rainbow": false,
+      "Red": 0,
+      "Green": 255,
+      "Blue": 0
+    },
+    "ESPESPHoles": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPESPSpawnable Mob": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPBetter Selection": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0
+    },
+    "ESPChat Mention": {
+      "Rainbow": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 0
+    },
+    "HudBetterHotbarBackground": {
+      "Rainbow": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0
+    },
+    "HudBetterHotbarArrow": {
+      "Rainbow": false,
+      "Red": 189,
+      "Green": 0,
+      "Blue": 0
+    }
+  }
+}
