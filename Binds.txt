@@ -1,0 +1,17 @@
+R: killaura
+X: fly
+V: speed
+T: nofall
+U: Freecam
+K: sacffold
+O: Aimassest
+B: esp
+Z: Elytra +(Trun Off Anti-Hunger and Nofall!!!)
+Ins: ClickGui
+Home: Night Vision - Potion
+0: hub
+Del: boatfly(Use with caution!)
+End: Timer
+C: reach
+N: safewalk
+=: X-ray
